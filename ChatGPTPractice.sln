@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPTPractice", "ChatGPTPractice\ChatGPTPractice.csproj", "{B20403B6-17BA-43B4-9E64-1DF89456DB0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPTPractice.UnitTests", "ChatGPTPractice.UnitTests\ChatGPTPractice.UnitTests.csproj", "{9BAABA7C-3536-47BB-820D-01CC717BF324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20403B6-17BA-43B4-9E64-1DF89456DB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20403B6-17BA-43B4-9E64-1DF89456DB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20403B6-17BA-43B4-9E64-1DF89456DB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20403B6-17BA-43B4-9E64-1DF89456DB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAABA7C-3536-47BB-820D-01CC717BF324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAABA7C-3536-47BB-820D-01CC717BF324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAABA7C-3536-47BB-820D-01CC717BF324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAABA7C-3536-47BB-820D-01CC717BF324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
